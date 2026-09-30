@@ -5,7 +5,7 @@
 ## Configure your account
 
 1. Create or sign in to your [API Route account](https://www.api-route.com/).
-2. Create an API key in [API Keys](https://www.api-route.com/console/token), and ensure your account has balance for inference.
+2. Create an API key in [API Keys](https://www.api-route.com/tokens), and ensure your account has balance for inference.
 3. Choose an exact model ID from the [current catalog](https://www.api-route.com/pricing). The examples use `deepseek-v4-flash`. Model access depends on your key's group and allowlist.
 
 Set these environment variables in the shell that will run the example:

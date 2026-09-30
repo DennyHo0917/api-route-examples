@@ -1,0 +1,19 @@
+{
+  "name": "api-route-examples",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "strands:typescript": "tsx examples/strands-agents.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@strands-agents/sdk": "^1.19.0",
+    "openai": "^6.49.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.0"
+  }
+}
